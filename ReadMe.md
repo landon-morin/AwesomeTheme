@@ -1,8 +1,10 @@
 ##Awesome Theme
 A quick theme expanded from the Creamy theme - https://github.com/quimcalpe/sublime-creamy-theme/
 
-* Improved .ejs, .html, angular, javascript and sass support
+* Improved .ejs, .html, Angular, Javascript and Sass support
 
-![alt tag](https://raw.github.com/landon-morin/AwesomeTheme/screenshots/javascript.png)
+###Javascript
+![alt tag](https://raw.githubusercontent.com/landon-morin/AwesomeTheme/master/screenshots/javascript.png)
 
-![alt tag](https://raw.github.com/landon-morin/AwesomeTheme/screenshots/sass.png)
+###Sass
+![alt tag](https://raw.githubusercontent.com/landon-morin/AwesomeTheme/master/screenshots/sass.png)
